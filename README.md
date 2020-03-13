@@ -1,7 +1,9 @@
-#Repositorio com exercecicios resolvidos da cadeira de Fundamentos de programacao.
+# Repositório com exercícios resolvidos da cadeira de Fundamentos de programação.
 
-##Instituto Superior Politecnico de Tete
+## Instituto Superior Politecnico de Tete
 
-##Docente: Lourenço Roberto
+## Docente: Lourenço Roberto
+
+### Ano: 2020
 
 
